@@ -1,5 +1,12 @@
 <h1 align="center">EgyBestBot</h1><br>
 
+<p align="center">
+    <a href="https://github.com/abdulrahmanMostafa30/EgyBestBot/releases"><img alt="github releases" src="https://img.shields.io/github/v/release/abdulrahmanMostafa30/EgyBestBot"></a>
+    <a href="https://github.com/abdulrahmanMostafa30/EgyBestBot/releases"><img alt="release date" src="https://img.shields.io/github/release-date/abdulrahmanMostafa30/EgyBestBot"></a>
+    <a href="./LICENSE.txt"><img alt="license" src="https://img.shields.io/github/license/tnychn/torrodle.svg"></a>
+</p>
+
+ 
 **EgybestBot** is a command-line program which searches and gathers magnet links of movies, tv shows, animes from *EgyBest* withoud ads
 It then download by (**EgybestBot** and *IDM*) or plays it with a user preferred video player (such as *vlc* and *PotPlayer*).
 
