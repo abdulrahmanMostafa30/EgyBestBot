@@ -7,7 +7,7 @@
 </p>
 
  
-**EgybestBot** is a command-line program which searches and gathers magnet links of movies, tv shows, animes from *EgyBest* withoud ads
+**EgybestBot** is a command-line program which searches and gathers magnet links of movies, tv shows, animes from *EgyBest* without ads
 It then download by (**EgybestBot** and *IDM*) or plays it with a user preferred video player (such as *vlc* and *PotPlayer*).
 
 
