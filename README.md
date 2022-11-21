@@ -8,7 +8,7 @@
 
  
 **EgybestBot** is a command-line program for windows which searches and gathers magnet links of movies, tv shows, animes from *EgyBest* without ads
-It then download by (*Through the program itself* , *IDM* or *FDM* ) or plays it with a user preferred video player (such as *VLC* , *PotPlayer* or *MVP*).
+It then download by (*Through the program itself* , *IDM* or *FDM* ) or plays it with a user preferred video player (such as *VLC media player* , *PotPlayer* or *MPV Player*).
 
 
 <div align="center">
@@ -25,7 +25,7 @@ It then download by (*Through the program itself* , *IDM* or *FDM* ) or plays it
 * 🔎 Search any (*movies* , *series* or *sessions*)
 * 🚀 Custom folder with the poster (*movies* , *series* or *sessions*)
 * 🔥 High download speeds with (*from the same program* , *IDM*, *FDM*)
-* 🔰 Watch the video with (*VlC* , *PotPlayer* , *MVP*)
+* 🔰 Watch the video with (*VLC media player* , *PotPlayer* , *MPV Player*)
 * 🎥 Download entire videos (*series* or *sessions*) or selected videos.
 * 👌 Set quality user preferred for download or watch (*1080*, *720*, *360* or *240*)
 * 🚸 User-friendly
