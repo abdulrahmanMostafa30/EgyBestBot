@@ -1,4 +1,4 @@
-# This links belong to EgyBest
+# This domains belong to EgyBest
 # When the program into first time, it try all domains from this file
 # You can contribute by adding the domains that work for you
 www.egybest.com
