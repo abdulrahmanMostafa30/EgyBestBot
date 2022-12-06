@@ -4,14 +4,24 @@
     <a href="https://github.com/abdulrahmanMostafa30/EgyBestBot/releases">
         <img alt="github releases" src="https://img.shields.io/github/v/release/abdulrahmanMostafa30/EgyBestBot">
     </a>
-    <a href="https://github.com/abdulrahmanMostafa30/EgyBestBot/releases">
+    <a href="https://github.com/abdulrahmanMostafa30/EgyBestBot/releases/latest">
         <img alt="release date" src="https://img.shields.io/github/release-date/abdulrahmanMostafa30/EgyBestBot">
     </a>
-    <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/abdulrahmanMostafa30/EgyBestBot">
-    <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/abdulrahmanMostafa30/EgyBestBot/total">
-    <img alt="latest by SemVer" src="https://img.shields.io/github/downloads/abdulrahmanMostafa30/EgyBestBot/latest/total">
-    <img alt="stars" src="https://img.shields.io/github/stars/abdulrahmanMostafa30/EgyBestBot">
-    <img alt="youtube" src="https://img.shields.io/youtube/views/NY36n6IYCQ8">
+    <a href="https://github.com/abdulrahmanMostafa30/EgyBestBot/issues?q=is%3Aissue+is%3Aclosed">
+        <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/abdulrahmanMostafa30/EgyBestBot">
+    </a>
+    <a href="https://github.com/abdulrahmanMostafa30/EgyBestBot/releases/">
+        <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/abdulrahmanMostafa30/EgyBestBot/total">
+    </a>
+    <a href="https://github.com/abdulrahmanMostafa30/EgyBestBot/releases/latest">
+        <img alt="latest by SemVer" src="https://img.shields.io/github/downloads/abdulrahmanMostafa30/EgyBestBot/latest/total">
+    </a>
+    <a href="https://github.com/abdulrahmanMostafa30/EgyBestBot/stargazers">
+        <img alt="stars" src="https://img.shields.io/github/stars/abdulrahmanMostafa30/EgyBestBot">
+    </a>
+    <a href="https://www.youtube.com/watch?v=NY36n6IYCQ8">
+        <img alt="youtube" src="https://img.shields.io/youtube/views/NY36n6IYCQ8">
+    </a>
 
 </p>
 
