@@ -20,7 +20,7 @@
         <img alt="stars" src="https://img.shields.io/github/stars/abdulrahmanMostafa30/EgyBestBot">
     </a>
     <a href="https://www.youtube.com/watch?v=NY36n6IYCQ8">
-        <img alt="youtube" src="https://img.shields.io/youtube/views/NY36n6IYCQ8">
+        <img alt="youtube" src="https://img.shields.io/youtube/views/NY36n6IYCQ8?label=youtube%40views&style=flat">
     </a>
 
 </p>
