@@ -1,14 +1,23 @@
 <h1 align="center">EgyBestBot</h1><br>
 
 <p align="center">
-    <a href="https://github.com/abdulrahmanMostafa30/EgyBestBot/releases"><img alt="github releases" src="https://img.shields.io/github/v/release/abdulrahmanMostafa30/EgyBestBot"></a>
-        <a href="https://github.com/abdulrahmanMostafa30/EgyBestBot/releases"><img alt="release date" src="https://img.shields.io/github/release-date/abdulrahmanMostafa30/EgyBestBot"></a>
+    <a href="https://github.com/abdulrahmanMostafa30/EgyBestBot/releases">
+        <img alt="github releases" src="https://img.shields.io/github/v/release/abdulrahmanMostafa30/EgyBestBot">
+    </a>
+    <a href="https://github.com/abdulrahmanMostafa30/EgyBestBot/releases">
+        <img alt="release date" src="https://img.shields.io/github/release-date/abdulrahmanMostafa30/EgyBestBot">
+    </a>
+    <img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/abdulrahmanMostafa30/EgyBestBot">
+    <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/abdulrahmanMostafa30/EgyBestBot/total">
+    <img alt="latest by SemVer" src="https://img.shields.io/github/downloads/abdulrahmanMostafa30/EgyBestBot/latest/total">
+    <img alt="stars" src="https://img.shields.io/github/stars/abdulrahmanMostafa30/EgyBestBot">
+    <img alt="youtube" src="https://img.shields.io/youtube/views/NY36n6IYCQ8">
 
 </p>
 
  
 **EgybestBot** is a command-line program for windows which searches and gathers magnet links of movies, tv shows, animes from *EgyBest* without ads
-It then download by (*Through the program itself* , *IDM* or *FDM* ) or plays it with a user preferred video player (such as *VLC media player* , *PotPlayer* or *MPV Player*).
+It then download by (*Through the program itself* , *IDM* or *FDM* ) or plays it with a user preferred video player (such as *VLC media player* , *PotPlayer* or *MPV Player* *MKV Player*).
 
 
 <div align="center">
@@ -25,9 +34,10 @@ It then download by (*Through the program itself* , *IDM* or *FDM* ) or plays it
 * 🔎 Search any (*movies* , *series* or *sessions*)
 * 🚀 Custom folder with the poster (*movies* , *series* or *sessions*)
 * 🔥 High download speeds with (*from the same program* , *IDM*, *FDM*)
-* 🔰 Watch the video with (*VLC media player* , *PotPlayer* , *MPV Player*)
+* 🔰 Watch the video with (*VLC media player* , *PotPlayer* , *MPV Player* *MKV Player*)
 * 🎥 Download entire videos (*series* or *sessions*) or selected videos.
 * 👌 Set quality user preferred for download or watch (*1080*, *720*, *360* or *240*)
+* 🔁 Save items you've watched to continue later
 * 🚸 User-friendly
 
 ### Binary
