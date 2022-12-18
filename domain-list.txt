@@ -1,7 +1,6 @@
 # This domains belong to EgyBest
 # When the program into first time, it try all domains from this file
 # You can contribute by adding the domains that work for you
-# This file is only for Egyptians, because the Egyptian government blocks Egybest
 # All domains work in date 11/12/2022
 www.egybest.com
 near.egybest.me
