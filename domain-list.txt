@@ -1,7 +1,8 @@
 # This domains belong to EgyBest
 # When the program into first time, it try all domains from this file
 # You can contribute by adding the domains that work for you
-# All domains work in date 11/12/2022
+# All domains don't work expect for the first one in date 28-03-2023
+egybest.tech
 www.egybest.com
 near.egybest.me
 aero.egybest.me
